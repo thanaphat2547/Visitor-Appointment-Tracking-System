@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569613070983",
+    "project_id": "visitor-tracking-24eac",
+    "storage_bucket": "visitor-tracking-24eac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569613070983:android:17b78a3426bd7c75e73e22",
+        "android_client_info": {
+          "package_name": "com.example.visitor_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ObQgsBOpqGprnhnCrDMAqMbKddtCvQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
