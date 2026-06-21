@@ -1,5 +1,6 @@
+
 ## 🏢 Visitor Appointment Tracking System
-[![Visitor-Tracking.png](https://via.placeholder.com/800x450.png?text=Visitor+Appointment+Tracking+System)](ลิงก์รูปภาพตัวเต็มของคุณ)
+<img width="1920" height="954" alt="651688 ProjectPresent" src="https://github.com/user-attachments/assets/adb53e87-ed6d-4480-8d2c-a1220da5e690" />
 
 โปรเจกต์นี้พัฒนาด้วย **Vue.js, Node.js, SQL Server** และ **Leaflet.js** มีจุดประสงค์เพื่อเพิ่มประสิทธิภาพใน **การบริหารจัดการนัดหมาย** และ **ติดตามตำแหน่งบนปผนที่** ภายในพื้นที่อาคาร  
 โดยนำเสนอในรูปแบบโปรแกรมประยุกต์บนเว็บ (Web Application) และแอปพลิเคชันบนโทรศัพท์เคลื่อนที่ (Mobile Application)
