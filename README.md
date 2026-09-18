@@ -15,13 +15,8 @@
 - **🔔 Push Notifications:** เชื่อมต่อระบบแจ้งเตือนข้ามแพลตฟอร์มแบบเรียลไทม์ด้วย Firebase Cloud Messaging (FCM) 
 
 ### 💻 Tech Stack (เทคโนโลยีที่ใช้พัฒนา)
-- **Frontend (Web / Mobile):** Vue.js, HTML5, CSS3, JavaScript
-- **Backend:** Node.js (Express), RESTful API
+- **Frontend (Web): Vue.js, JavaScript, CSS, Ant Design Vue, Vue-Leaflet, Axios, Echarts
+- **Frontend (Mobile): Flutter, Dart,
+- **Backend:** Node.js (Express), JavaScript, RESTful API
 - **Database:** SQL Server
 - **Tools & Services:** Firebase (FCM), Leaflet.js, Insomnia, DBeaver
-
-### 📁 Repository Structure (โครงสร้างโปรเจกต์)
-โปรเจกต์นี้ถูกจัดเก็บในรูปแบบ **Monorepo** เพื่อให้ง่ายต่อการพัฒนาแบบ Full-Stack โดยแบ่งโครงสร้างโฟลเดอร์ดังนี้:
-- 📂 `Visitor_Tracking(Backend)/` — Source code สำหรับระบบหลังบ้าน (Node.js API) และการเชื่อมต่อฐานข้อมูล
-- 📂 `Visitor_Tracking(Web)/` — Source code สำหรับโปรแกรมประยุกต์บนเว็บ (Frontend)
-- 📂 `Visitor_Tracking(Mobile)/` — Source code สำหรับแอปพลิเคชันบนโทรศัพท์เคลื่อนที่
